@@ -5,6 +5,8 @@ namespace App\Providers;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\ServiceProvider;
 
+// ewrewr
+
 class AppServiceProvider extends ServiceProvider
 {
     /**
