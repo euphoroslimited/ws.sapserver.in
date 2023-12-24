@@ -1,0 +1,90 @@
+[24-Dec-2023 10:19:51 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:19:51 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:19:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:19:54 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:19:54 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:19:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:20:16 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:20:16 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:20:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:22:21 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:22:21 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:22:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:22:25 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:22:25 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:22:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:23:32 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:23:32 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:23:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:25:13 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:25:13 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:25:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:25:15 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:25:15 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:25:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:26:32 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:26:32 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:26:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:27:15 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:27:15 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:27:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:33:52 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:33:52 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:33:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:33:52 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:33:52 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 10:33:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:16:34 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:16:34 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:16:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:47:28 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:47:28 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:47:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:47:36 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:47:36 UTC] PHP Warning:  require(/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
+[24-Dec-2023 13:47:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kcj7dd2gf1f5/public_html/be.sapserver.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/kcj7dd2gf1f5/public_html/be.sapserver.com/index.php on line 34
